@@ -1,0 +1,10 @@
+.currency-select.el-select {
+  width: 80px;
+  .el-input {
+    .el-input__inner {
+      border: none !important;
+      font-size: 20px;
+      padding-left: 10px;
+    }
+  }
+}
